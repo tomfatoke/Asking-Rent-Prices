@@ -2,7 +2,7 @@ rent-price-prediction/
 │
 ├── data/
 │   └── raw/
-│       └── 46100092-eng.csv          ← StatCan CSV goes here
+│       └── 46100092.csv          ← StatCan CSV goes here
 │
 ├── notebooks/
 │   ├── 01_bronze_ingestion.py
