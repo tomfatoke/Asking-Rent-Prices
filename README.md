@@ -1,7 +1,7 @@
-# Asking Rent Price Prediction
+# Asking Rent Price Analysis
 
 ## Project Overview
-This project analyzes and predicts Canadian asking rent prices using
+This project analyzes Canadian asking rent prices using
 experimental estimates published by Statistics Canada. The data covers
 average asking rent by rental unit type, number of bedrooms, and
 geography across major Canadian cities from 2019 onwards.
