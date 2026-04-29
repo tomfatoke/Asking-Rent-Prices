@@ -212,14 +212,14 @@ generated using Databricks Genie natural language querying.
 ---
 
 ### National Average Rent (2025)
-<img src="images/National%20Average%20Rent%20(2025).png" width="700"/>
+<img src="images/National%20Average%20Rent%20(2025).png" width="400"/>
 
 The national average asking rent in Canada for 2025 is $1,766.
 
 ---
 
 ### Most Expensive City
-<img src="images/Most%20Expensive%20City_%20Vancouver.png" width="700"/>
+<img src="images/Most%20Expensive%20City_%20Vancouver.png" width="400"/>
 
 Vancouver has the highest overall average rent among all
 Canadian cities in the dataset.
@@ -227,7 +227,7 @@ Canadian cities in the dataset.
 ---
 
 ### Most Affordable City
-<img src="images/Most%20Affordable%20City_%20Saguenay.png" width="700"/>
+<img src="images/Most%20Affordable%20City_%20Saguenay.png" width="400"/>
 
 Saguenay is the most affordable city in Canada based on
 average asking rent.
@@ -235,7 +235,7 @@ average asking rent.
 ---
 
 ### Highest Rent Increase Since 2019
-<img src="images/Highest%20Rent%20Increase_%20Trois-Rivières.png" width="700"/>
+<img src="images/Highest%20Rent%20Increase_%20Trois-Rivières.png" width="400"/>
 
 Trois-Rivières has experienced the largest rent increase
 since 2019 among all cities in the dataset.
